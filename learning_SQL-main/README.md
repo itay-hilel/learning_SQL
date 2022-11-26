@@ -26,6 +26,6 @@ Hope this repo will help you to assess my SQL skills or will be just fun for you
 
 
 --------------------------------------------
-Fell free to contact me via nktn.lx@gmal.com  
-Follow me on twitter: @nktn_lx  
-And here on github: github.com/nktnlx  
+Fell free to contact me via 
+- LinkedIn: [@ItayHilel](https://www.linkedin.com/in/itay-hilel/)
+- E-mail: Hilelitay@gmail.com
